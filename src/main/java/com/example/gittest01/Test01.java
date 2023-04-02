@@ -6,6 +6,6 @@ package com.example.gittest01;
 public class Test01 {
 
     public void test01(){
-        System.out.println("dev01");
+        System.out.println("gittest01");
     }
 }
